@@ -20,7 +20,6 @@ const InfoBoxes = () => {
 
           <InfoBox
             heading="Para Proprietários"
-            textColor="bg-blue-100"
             buttonInfo={{
               link: "/properties/add",
               label: "Adicionar Propriedade",
