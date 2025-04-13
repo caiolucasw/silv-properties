@@ -8,8 +8,8 @@ import "react-toastify/dist/ReactToastify.css";
 import { GlobalProvider } from "@/context/GlobalContext";
 
 export const metadata: Metadata = {
-  title: "Property Caio",
-  keywords: "rental, properties, real estate",
+  title: "SILV",
+  keywords: "aluguel, propriedades",
 };
 
 function MainLayout({ children }: { children: React.ReactNode }) {
